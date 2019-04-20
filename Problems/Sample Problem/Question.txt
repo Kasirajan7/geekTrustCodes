@@ -1,0 +1,12 @@
+To print the value in the array from the given number
+
+Given Array : [2, 4, 3, 1, 6, 9, 11, 14, 232, 12, 56, 32, 10, 8]
+
+Input : 3
+
+Output : 3, 1, 6, 9, 11, 14, 232, 12, 56, 32, 10, 8, 2, 4
+
+Constraints :
+    Use only one for loop
+    No use of default functions
+    
